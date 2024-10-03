@@ -28,7 +28,6 @@
 ![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=flat-square&logo=bitcoin)
 ![DeFi](https://img.shields.io/badge/-DeFi-4B0082?style=flat-square&logo=decentralized)
 ![DEX](https://img.shields.io/badge/-DEX-2A9D8F?style=flat-square&logo=exchange)
-![DeFi](https://img.shields.io/badge/-DeFi-4B0082?style=flat-square&logo=decentralized)
 ![Trading](https://img.shields.io/badge/-Trading-FF4500?style=flat-square&logo=trade)
 ![Betting](https://img.shields.io/badge/-Betting-FF6347?style=flat-square&logo=betfair)
 ![Solana](https://img.shields.io/badge/-Solana-5C2D91?style=flat-square&logo=solana)
